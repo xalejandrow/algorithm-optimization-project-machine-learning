@@ -1,5 +1,5 @@
 <!-- hide -->
-# Calculus and Algebra Problems with Python 
+# Algorithm Optimization Project for Machine Learning
 <!-- endhide -->
 Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
 
